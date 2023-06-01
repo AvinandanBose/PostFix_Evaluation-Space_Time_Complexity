@@ -142,7 +142,8 @@
   
 <ul>
   
-  ![Screenshot (607)](https://github.com/AvinandanBose/PostFix_Evaluation-Space_Time_Complexity/assets/38869235/6bed0152-84ab-4702-aa65-b7d54461b267)
+  ![241200535-6bed0152-84ab-4702-aa65-b7d54461b267](https://github.com/AvinandanBose/PostFix_Evaluation-Space_Time_Complexity/assets/38869235/19aaaf48-1c83-4291-9b93-9f5975d84d8f)
+
 
 <br>
 <br>  
